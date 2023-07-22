@@ -1,0 +1,8 @@
+E:\Assisted\Phase Handling Dates\Phase Handling Dates\bin\Debug\Phase Handling Dates.exe.config
+E:\Assisted\Phase Handling Dates\Phase Handling Dates\bin\Debug\Phase Handling Dates.exe
+E:\Assisted\Phase Handling Dates\Phase Handling Dates\bin\Debug\Phase Handling Dates.pdb
+E:\Assisted\Phase Handling Dates\Phase Handling Dates\obj\Debug\Phase Handling Dates.csproj.AssemblyReference.cache
+E:\Assisted\Phase Handling Dates\Phase Handling Dates\obj\Debug\Phase Handling Dates.csproj.SuggestedBindingRedirects.cache
+E:\Assisted\Phase Handling Dates\Phase Handling Dates\obj\Debug\Phase Handling Dates.csproj.CoreCompileInputs.cache
+E:\Assisted\Phase Handling Dates\Phase Handling Dates\obj\Debug\Phase Handling Dates.exe
+E:\Assisted\Phase Handling Dates\Phase Handling Dates\obj\Debug\Phase Handling Dates.pdb
